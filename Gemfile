@@ -6,7 +6,8 @@ gem 'rails', '4.0.8'
 
 # Use sqlite3 as the database for Active Record
 group :development do
-gem 'mysql2', '0.3.11'
+#gem 'mysql2', '0.3.11'
+gem 'sqlite3', '1.3.8'
 end
 
 gem 'sass-rails', '4.0.1'
